@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/the-foundry"]
+	path = wp-content/themes/the-foundry
+	url = git@github.com:invisiblehats/the-foundry.git
